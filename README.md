@@ -1,2 +1,2 @@
 # Sector-Classification
-Access the web app: https://pacific-springs-59424.herokuapp.com/
+Access the web app: https://sector-classification.herokuapp.com/
