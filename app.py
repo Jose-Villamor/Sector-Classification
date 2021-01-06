@@ -54,7 +54,7 @@ def main():
     st.image(image, use_column_width=True)
 
     st.write("This website app predicts a sector depending on the financial indicators selected in the side panel. The outcome is represented by a donut chart.") 
-    st.write("**If you want to know more about the project or others that i have done visit my github account: https://github.com/Jose-Villamor?tab=repositories**")
+    st.write("**If you want to know more about the project or others that i have done visit my github account: https://jose-villamor.github.io/Portfolio_website/portfolio.html**")
     
     data = side_bar()   
  
